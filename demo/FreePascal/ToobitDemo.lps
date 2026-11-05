@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="13"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ToobitDemo.lpr"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="20"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="13"/>
+        <CursorPos X="50" Y="26"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\Toobit4D.Client.pas"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="33" Y="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\Toobit4D.Futures.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\Toobit4D.inc"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\Toobit4D.Json.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\Toobit4D.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\Toobit4D.Spot.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\Toobit4D.Stream.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\Toobit4D.Types.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\Toobit4D.Utils.pas"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="232"/>
+        <CursorPos X="17" Y="243"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\Toobit4D.WS.Transport.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\Toobit4D.WS.WebSocket4D.pas"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="11"/>
+        <CursorPos X="44" Y="25"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutils.pp"/>
+        <UnitName Value="DateUtils"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="2686"/>
+        <CursorPos X="28" Y="2704"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\lazutils\lazsysutils.pas"/>
+        <UnitName Value="LazSysUtils"/>
+        <Loaded Value="True"/>
+        <UsageCount Value="10"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="20" Y="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Request.Adapter.Contract.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Request.Client.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Request.Contract.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Request.FPHTTPClient.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Request.ICS.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Request.Indy.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Request.NetHTTP.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Request.Synapse.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Response.Client.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Response.Contract.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Response.FPHTTPClient.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Response.ICS.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Response.Indy.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Response.NetHTTP.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Response.Synapse.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\Software\DelphiComponents\RESTRequest4Delphi-master\src\RESTRequest4D.Utils.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="E:\PROJECTS\WebSocket4D\Source\WebSocket4D.pas"/>
+        <UsageCount Value="20"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="24">
+      <Position>
+        <Filename Value="ToobitDemo.lpr"/>
+      </Position>
+      <Position>
+        <Filename Value="ToobitDemo.lpr"/>
+        <Caret Line="6" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\Toobit4D.Utils.pas"/>
+        <Caret Line="241" Column="37" TopLine="232"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\Toobit4D.Utils.pas"/>
+        <Caret Line="239" Column="38" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutils.pp"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Caret Line="5" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Caret Line="446" Column="17" TopLine="431"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Caret Line="447" Column="17" TopLine="431"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Caret Line="448" Column="28" TopLine="431"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Caret Line="449" Column="28" TopLine="431"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Caret Line="2681" Column="17" TopLine="2663"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Caret Line="2684" Column="18" TopLine="2666"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Caret Line="2687" Column="17" TopLine="2669"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Caret Line="2698" Column="28" TopLine="2680"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <Caret Line="2701" Column="29" TopLine="2683"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\Toobit4D.Utils.pas"/>
+        <Caret Line="239" Column="38" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\Toobit4D.Utils.pas"/>
+        <Caret Line="243" Column="23" TopLine="232"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\Toobit4D.Utils.pas"/>
+        <Caret Line="54" Column="34" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\components\lazutils\lazsysutils.pas"/>
+        <Caret Line="11" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\Toobit4D.Utils.pas"/>
+        <Caret Line="243" Column="17" TopLine="232"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\Toobit4D.Client.pas"/>
+        <Caret Line="15" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\Toobit4D.Client.pas"/>
+        <Caret Line="10" Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\Toobit4D.Client.pas"/>
+        <Caret Line="11" Column="59"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\Toobit4D.Client.pas"/>
+        <Caret Line="10" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\Toobit4D.Client.pas"/>
+        <Caret Line="7" Column="33"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
