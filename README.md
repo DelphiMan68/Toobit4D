@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Images/banner.png" alt="Toobit4D — A dependency-light Toobit exchange API client for Delphi and FreePascal" width="100%" />
+  <img src="images/banner.png" alt="Toobit4D — A dependency-light Toobit exchange API client for Delphi and FreePascal" width="100%" />
 </div>
 
 # Toobit4D
